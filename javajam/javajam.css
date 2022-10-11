@@ -1,5 +1,5 @@
 body { background-color: #FCEBB6;
-	background-image: url("images\fadedroad50.jpg");
+	background-image: url(images\fadedroad50.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed; 
@@ -75,7 +75,7 @@ img {
 
 #homehero {
 	height: 300px;
-	background-image: url("C:\Users\katet\OneDrive\Desktop\USU Fall 2022\IS 3700 Web Design\A5JavaJamSolution\A5JavaJamSolution\images\hero.jpg");
+	background-image: url(images\hero.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
