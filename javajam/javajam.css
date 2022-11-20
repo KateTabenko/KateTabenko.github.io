@@ -227,9 +227,7 @@ input,textarea {
 }
 
 .current {
-	text-transform: uppercase;
-	/* text-decoration-line: underline; */
-	/* text-decoration-style: double; */
+	text-decoration-line: underline;
 	background-color: #776655;
 }
 
