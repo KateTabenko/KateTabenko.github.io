@@ -15,8 +15,8 @@ body { background-color: #D2B48C;
 }
 
 header {
-	background-color: #fdfdfd;
-	background-image: url(images/pinkplaid.jpg);
+	background-color: #D2B48C;
+	background-image: url(images/cup.jpg);
 	background-repeat: no-repeat;
 	color: #231814;
 	height: 128px;
@@ -140,31 +140,13 @@ img {
 	height: auto;
 }
 
-#cakes {
+#homehero {
 	height: 300px;
-	background-image: url(images/cakes.jpg);
+	background-image: url(images/road.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 
-#fingers {
-	height: 300px;
-	background-image: url(images/fingers.jpg);
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-}
-#mouse {
-	height: 300px;
-	background-image: url(images/mouse.jpg);
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-}
-#eggs {
-	height: 300px;
-	background-image: url(images/eggs.jpg);
-	background-repeat: no-repeat;
-	background-size: 100% 100%;
-}
 #heromugs {
 	height: 300px;
 	background-image: url(images/threemugs.jpg);
@@ -356,7 +338,7 @@ input,textarea {
 		}
 
 		header {
-			background-image: url(images/cupcake.png);
+			background-image: url(images/coffeelogo.jpg);
 		}
 	}
 }
